@@ -25,7 +25,7 @@ The tool focuses on accuracy, interpretability, and accessibility, giving users 
 ## Status  
 ✅ Fully functional frontend and ML integration  
 🧪 Validated on real-world datasets with strong cross-validation performance  
-📍 Used by ~40 test users during development
+📍 Used by ~20 test users during development
 
 ## How It Works  
 1. Users log in securely using Clerk  
