@@ -1,6 +1,6 @@
 # QuantumDiagnose 🧠🩺  
 **Multi-disease risk screening using ML-powered diagnostics**  
-[🌐 Live Site](#) • [📂 GitHub Repo](https://github.com/im-Archit/QuantumNew)
+[🌐 Live Site](quantum-new.vercel.app) • [📂 GitHub Repo](https://github.com/im-Archit/QuantumNew)
 
 ## Overview  
 QuantumDiagnose is a web platform that allows users to screen themselves for four major chronic diseases — **heart disease, kidney disease, liver disease, and diabetes** — using machine learning models trained on real clinical datasets.
@@ -34,8 +34,7 @@ The tool focuses on accuracy, interpretability, and accessibility, giving users 
 4. Results and risk zones are presented in real-time  
 
 ## Live Demo  
-🔗 [Add your live deployment link here]  
-🔗 GitHub Repo: [Add GitHub repo link here]
+🔗 quantum-new.vercel.app
 
 ## Contact  
 If you're a recruiter, collaborator, or curious user — feel free to connect on [LinkedIn](https://linkedin.com/in/archit-sharma-3a913722a).
