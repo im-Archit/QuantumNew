@@ -82,7 +82,7 @@ export default function HeroSection() {
 
           <motion.div variants={statsVariants} className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
             {[
-              { disease: "Kidney", accuracy: "100%" },
+              { disease: "Kidney", accuracy: "95%" },
               { disease: "Liver", accuracy: "99.64%" },
               { disease: "Heart", accuracy: "86.72%" },
               { disease: "Diabetes", accuracy: "77.08%" },
