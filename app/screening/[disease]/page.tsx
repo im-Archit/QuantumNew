@@ -35,8 +35,8 @@ export default async function ScreeningPage({ params }: ScreeningPageProps) {
     kidney: {
       name: "Kidney Disease",
       description: "Detect chronic kidney disease through blood and urine markers.",
-      accuracy: "100%",
-      url: "https://kidney-byarchit.streamlit.app",
+      accuracy: "95%",
+      url: "https://kidneyprediction-byarchit.streamlit.app",
     },
     liver: {
       name: "Liver Disease",
@@ -48,7 +48,7 @@ export default async function ScreeningPage({ params }: ScreeningPageProps) {
       name: "Diabetes",
       description: "Assess diabetes risk based on glucose levels and health factors.",
       accuracy: "77.08%",
-      url: "https://diabetesprediction-byarchit.streamlit.app",
+      url: "https://quantumdiagnosediabetes.streamlit.app",
     },
   }
 
