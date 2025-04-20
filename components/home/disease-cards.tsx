@@ -24,12 +24,12 @@ const diseases = [
     id: "kidney",
     name: "Kidney Disease",
     description: "Detect chronic kidney disease through blood and urine markers.",
-    accuracy: "100%",
+    accuracy: "95%",
     icon: Kidney,
     color: "text-purple-500",
     bgColor: "bg-purple-50",
     borderColor: "border-purple-100",
-    url: "https://kidney-byarchit.streamlit.app",
+    url: "https://kidneyprediction-byarchit.streamlit.app/#enter-patient-details",
   },
   {
     id: "liver",
@@ -51,7 +51,7 @@ const diseases = [
     color: "text-blue-500",
     bgColor: "bg-blue-50",
     borderColor: "border-blue-100",
-    url: "https://diabetesprediction-byarchit.streamlit.app",
+    url: "https://quantumdiagnosediabetes.streamlit.app",
   },
 ]
 
