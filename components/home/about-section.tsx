@@ -68,7 +68,7 @@ export default function AboutSection() {
                 <div className="bg-slate-50 p-4 rounded-lg">
                   <h4 className="font-medium mb-1">Kidney Disease</h4>
                   <div className="flex items-end gap-2">
-                    <span className="text-2xl font-bold gradient-text">100%</span>
+                    <span className="text-2xl font-bold gradient-text">95%</span>
                     <span className="text-sm text-muted-foreground">accuracy</span>
                   </div>
                 </div>
