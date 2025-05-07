@@ -84,7 +84,7 @@ export default function HeroSection() {
             {[
               { disease: "Kidney", accuracy: "98.80%" },
               { disease: "Liver", accuracy: "99.96%" },
-              { disease: "Heart", accuracy: "898.54%" },
+              { disease: "Heart", accuracy: "98.54%" },
               { disease: "Diabetes", accuracy: "79.00%" },
             ].map((item) => (
               <div
