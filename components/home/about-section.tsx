@@ -54,7 +54,7 @@ export default function AboutSection() {
             <motion.div variants={itemVariants}>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">About Our Research</h2>
               <p className="text-muted-foreground mb-6">
-                QuantumDiagnose is built on groundbreaking research in machine learning for medical diagnostics. Our
+                Arogya-Sentinel is built on groundbreaking research in machine learning for medical diagnostics. Our
                 platform leverages advanced algorithms to detect disease patterns before symptoms appear.
               </p>
             </motion.div>
