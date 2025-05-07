@@ -29,25 +29,25 @@ export default async function ScreeningPage({ params }: ScreeningPageProps) {
     heart: {
       name: "Heart Disease",
       description: "Screen for cardiovascular conditions using clinical and lifestyle data.",
-      accuracy: "86.72%",
+      accuracy: "98.54%",
       url: "https://heartdisease-byarchit.streamlit.app",
     },
     kidney: {
       name: "Kidney Disease",
       description: "Detect chronic kidney disease through blood and urine markers.",
-      accuracy: "95%",
+      accuracy: "98.80%",
       url: "https://kidneyprediction-byarchit.streamlit.app",
     },
     liver: {
       name: "Liver Disease",
       description: "Identify liver disorders using enzyme levels and patient data.",
-      accuracy: "99.64%",
+      accuracy: "99.96%",
       url: "https://liverdiseaseprediction-byarchit.streamlit.app",
     },
     diabetes: {
       name: "Diabetes",
       description: "Assess diabetes risk based on glucose levels and health factors.",
-      accuracy: "77.08%",
+      accuracy: "79.00%",
       url: "https://quantumdiagnosediabetes.streamlit.app",
     },
   }
