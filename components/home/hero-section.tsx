@@ -63,7 +63,7 @@ export default function HeroSection() {
           </motion.h1>
 
           <motion.p variants={itemVariants} className="text-lg md:text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            QuantumDiagnose uses advanced AI to screen for heart disease, kidney disease, liver disease, and diabetes
+            Arogya-Sentinel uses advanced AI to screen for heart disease, kidney disease, liver disease, and diabetes
             with unprecedented accuracy, helping you take control of your health before symptoms appear.
           </motion.p>
 
