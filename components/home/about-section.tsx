@@ -68,28 +68,28 @@ export default function AboutSection() {
                 <div className="bg-slate-50 p-4 rounded-lg">
                   <h4 className="font-medium mb-1">Kidney Disease</h4>
                   <div className="flex items-end gap-2">
-                    <span className="text-2xl font-bold gradient-text">95%</span>
+                    <span className="text-2xl font-bold gradient-text">98.80%</span>
                     <span className="text-sm text-muted-foreground">accuracy</span>
                   </div>
                 </div>
                 <div className="bg-slate-50 p-4 rounded-lg">
                   <h4 className="font-medium mb-1">Liver Disease</h4>
                   <div className="flex items-end gap-2">
-                    <span className="text-2xl font-bold gradient-text">99.64%</span>
+                    <span className="text-2xl font-bold gradient-text">99.96%</span>
                     <span className="text-sm text-muted-foreground">accuracy</span>
                   </div>
                 </div>
                 <div className="bg-slate-50 p-4 rounded-lg">
                   <h4 className="font-medium mb-1">Heart Disease</h4>
                   <div className="flex items-end gap-2">
-                    <span className="text-2xl font-bold gradient-text">86.72%</span>
+                    <span className="text-2xl font-bold gradient-text">98.54%</span>
                     <span className="text-sm text-muted-foreground">accuracy</span>
                   </div>
                 </div>
                 <div className="bg-slate-50 p-4 rounded-lg">
                   <h4 className="font-medium mb-1">Diabetes</h4>
                   <div className="flex items-end gap-2">
-                    <span className="text-2xl font-bold gradient-text">77.08%</span>
+                    <span className="text-2xl font-bold gradient-text">79.00%</span>
                     <span className="text-sm text-muted-foreground">accuracy</span>
                   </div>
                 </div>
