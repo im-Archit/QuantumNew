@@ -13,7 +13,7 @@ export default function Footer() {
               <div className="relative w-10 h-10">
                 <Image src="/logo.svg" alt="QuantumDiagnose Logo" fill className="object-contain" />
               </div>
-              <span className="font-bold text-xl">QuantumDiagnose</span>
+              <span className="font-bold text-xl">Arogya-Sentinel</span>
             </Link>
             <p className="text-slate-300 text-sm">
               Advanced AI-powered platform for screening heart disease, kidney disease, liver disease, and diabetes with
@@ -139,7 +139,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-800 mt-12 pt-6 text-center text-sm text-slate-400">
-          <p>© {new Date().getFullYear()} QuantumDiagnose. All rights reserved by Archit Sharma.</p>
+          <p>© {new Date().getFullYear()} Arogya-Sentinel. All rights reserved by Archit Sharma.</p>
           <p className="mt-2">
             <span className="text-xs">
               Disclaimer: This platform is intended for educational and research purposes only. It is not a substitute
