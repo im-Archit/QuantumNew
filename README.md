@@ -38,3 +38,6 @@ The tool focuses on accuracy, interpretability, and accessibility, giving users 
 
 ## Contact  
 If you're a recruiter, collaborator, or curious user — feel free to connect on [LinkedIn](https://linkedin.com/in/archit-sharma-3a913722a).
+
+## Docker
+Image: (https://hub.docker.com/repository/docker/imarchit/arogya-sentinel/general)
