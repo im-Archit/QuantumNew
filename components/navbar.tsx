@@ -44,7 +44,7 @@ export default function Navbar() {
           <div className="relative w-10 h-10">
             <Image src="/logo.svg" alt="QuantumDiagnose Logo" fill className="object-contain" />
           </div>
-          <span className="font-bold text-xl gradient-text">QuantumDiagnose</span>
+          <span className="font-bold text-xl gradient-text">Arogya-Sentinel</span>
         </Link>
 
         {/* Desktop Navigation */}
